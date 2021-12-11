@@ -39,7 +39,8 @@ namespace idealKiloHesap
                 Console.WriteLine("Zayıfsınız. Biraz kilo al." + "ideal kilo :" + ideal + "  " + "Sizin Kilonuz : " + kilo);
 
             Console.ReadKey();
-
+            Console.WriteLine("Test");
+            Console.Write("deneme");
 
 
 
